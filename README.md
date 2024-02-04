@@ -1,11 +1,11 @@
 ## My Skillz
 [![My Skills](https://skills.thijs.gg/icons?i=docker,git,go,kubernetes,lua,md,rust,vim&theme=dark)](https://skills.thijs.gg)
 # Octocron's Dotfiles for macOS
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) I use [nixOS](https://nixos.org/) btw!  Which is why I only need this for Mac  
+I use [nixOS](https://nixos.org/) btw!  Which is why I only need this for Mac  
 I am not going to bother with Windows anymore :p  
 
 > Uses 
-* [Ansible](https://docs.ansible.com/index.html)  
+* [Ansible	![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/index.html)  
 * [Brewfile](https://brew.sh/)
 * [Chezmoi.io](https://www.chezmoi.io/)
 * [Starship.io](https://starship.rs/)
