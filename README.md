@@ -4,7 +4,7 @@
 I use [nixOS](https://nixos.org/) btw!  Which is why I only need this for Mac  
 I am not going to bother with Windows anymore :p  
 
-> Uses 
+> Uses  
 [![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/index.html)  
 * [Brewfile](https://brew.sh/)
 * [Chezmoi.io](https://www.chezmoi.io/)
@@ -14,7 +14,7 @@ I am not going to bother with Windows anymore :p
 ## Notable files and repositories
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)  
 * starship
-* tmux
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)  
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)  
 * wezterm
 * zsh
