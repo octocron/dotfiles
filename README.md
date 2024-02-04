@@ -1,7 +1,7 @@
 ## My Skillz
 [![My Skills](https://skills.thijs.gg/icons?i=docker,git,go,kubernetes,lua,md,rust,vim&theme=dark)](https://skills.thijs.gg)
 # Octocron's Dotfiles for macOS
-- ![#5277C3](https://github.com/octocron/dotfiles/assets/12567785/8f351bfa-03fa-4cfb-ab98-1519a261e75f) I use [nixOS](https://nixos.org/) btw!  Which is why I only need this for Mac  
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) I use [nixOS](https://nixos.org/) btw!  Which is why I only need this for Mac  
 I am not going to bother with Windows anymore :p  
 
 > Uses 
